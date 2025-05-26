@@ -20,5 +20,3 @@ lines(decadas, tabela[, "Female"], col = "red", lwd = 2)
 
 legend("topright", legend = c("Homens", "Mulheres"),
        col = c("blue", "red"), lwd = 2)
-
-# pdf("grafico_multiplas_linhas.pdf")
